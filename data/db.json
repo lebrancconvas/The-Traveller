@@ -1,0 +1,19 @@
+{
+    "travels": [{
+        "id": 1,
+        "name": "Wano Country",
+        "description": "The island of unpredicable things that you can exclusively see it only here.",
+        "url": "https://onepiece.fandom.com/wiki/Wano_Country",
+        "image": [
+            "https://static.wikia.nocookie.net/onepiece/images/c/ca/Wano_Country_Infobox.png/revision/latest/scale-to-width-down/700?cb=20200119073638"
+        ]
+    }, {
+        "id": 2,
+        "name": "Susuran",
+        "description": "The school of the crow.",
+        "url": "",
+        "image": [
+            ""
+        ]
+    }]
+}
